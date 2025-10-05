@@ -1,30 +1,19 @@
 <div align="center">
 <img src="img/banner.png" alt="LLM Course">
   <p align="center">
-    𝕏 <a href="https://twitter.com/maximelabonne">Follow me on X</a> • 
-    🤗 <a href="https://huggingface.co/mlabonne">Hugging Face</a> • 
-    💻 <a href="https://mlabonne.github.io/blog">Blog</a> • 
-    📙 <a href="https://packt.link/a/9781836200079">LLM Engineer's Handbook</a>
+    💻 <a href="https://mlabonne.github.io/blog">Blog</a> 
   </p>
 </div>
 <br/>
 
-<a href="https://a.co/d/a2M67rE"><img align="right" width="25%" src="https://i.imgur.com/7iNjEq2.png" alt="LLM Engineer's Handbook Cover"/></a>The LLM course is divided into three parts:
+## The LLM course is divided into three parts:
 
-1. 🧩 **LLM Fundamentals** is optional and covers fundamental knowledge about mathematics, Python, and neural networks.
-2. 🧑‍🔬 **The LLM Scientist** focuses on building the best possible LLMs using the latest techniques.
-3. 👷 **The LLM Engineer** focuses on creating LLM-based applications and deploying them.
+1. **LLM Fundamentals** is optional and covers fundamental knowledge about mathematics, Python, and neural networks.
+2. **The LLM Scientist** focuses on building the best possible LLMs using the latest techniques.
+3. **The LLM Engineer** focuses on creating LLM-based applications and deploying them.
 
-> [!NOTE]
-> Based on this course, I wrote the [LLM Engineer's Handbook](https://packt.link/a/9781836200079) with Paul Iuzstin. It's a hands-on and detailed book that covers an end-to-end LLM application from design to deployment. The LLM course will always stay free but feel free to support my work by purchasing the book.
 
-For an interactive version of this course, I created an LLM assistant that will answer questions and test your knowledge in a personalized way on [**HuggingChat**](https://hf.co/chat/assistant/66029d2e5f4a884f7aabc9d1) or [**ChatGPT**](https://chat.openai.com/g/g-yviLuLqvI-llm-course).
-
-## 📝 Notebooks
-
-A list of notebooks and articles I wrote about LLMs.
-
-### Tools
+### Notebooks
 
 | Notebook | Description | Notebook |
 |----------|-------------|----------|
