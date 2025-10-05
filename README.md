@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    💻 <a href="https://mlabonne.github.io/blog">Blog</a> 
+    <a href="https://mlabonne.github.io/blog">Blog</a> 
   </p>
 </div>
 <br/>
@@ -55,7 +55,7 @@
 | Improve ChatGPT with Knowledge Graphs | Augment ChatGPT's answers with knowledge graphs. | [Article](https://mlabonne.github.io/blog/posts/Article_Improve_ChatGPT_with_Knowledge_Graphs.html) | <a href="https://colab.research.google.com/drive/1mwhOSw9Y9bgEaIFKT4CLi0n18pXRM4cj?usp=sharing"><img src="img/colab.svg" alt="Open In Colab"></a> |
 | Decoding Strategies in Large Language Models | A guide to text generation from beam search to nucleus sampling | [Article](https://mlabonne.github.io/blog/posts/2022-06-07-Decoding_strategies.html) | <a href="https://colab.research.google.com/drive/19CJlOS5lI29g-B3dziNn93Enez1yiHk2?usp=sharing"><img src="img/colab.svg" alt="Open In Colab"></a> |
 
-## 🧩 LLM Fundamentals
+## LLM Fundamentals
 
 This section introduces essential knowledge about mathematics, Python, and neural networks. You might not want to start here but refer to it as needed.
 
@@ -422,21 +422,4 @@ In addition to traditional security problems associated with software, LLMs have
 * [Red teaming LLMs](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming) by Microsoft: Guide on how to perform red teaming with LLMs.
 
 ---
-## Acknowledgements
 
-This roadmap was inspired by the excellent [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap) from Milan Milanović and Romano Roth.
-
-Special thanks to:
-
-* Thomas Thelen for motivating me to create a roadmap
-* André Frade for his input and review of the first draft
-* Dino Dunn for providing resources about LLM security
-* Magdalena Kuhn for improving the "human evaluation" part
-* Odoverdose for suggesting 3Blue1Brown's video about Transformers
-* Everyone who contributed to the educational references in this course :)
-
-*Disclaimer: I am not affiliated with any sources listed here.*
-
----
-
-[![Star History Chart](https://api.star-history.com/svg?repos=mlabonne/llm-course&type=Date)](https://www.star-history.com/#mlabonne/llm-course&Date)
