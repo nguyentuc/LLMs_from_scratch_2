@@ -1,5 +1,4 @@
 <div align="center">
-<img src="img/banner.png" alt="LLM Course">
   <p align="center">
     💻 <a href="https://mlabonne.github.io/blog">Blog</a> 
   </p>
